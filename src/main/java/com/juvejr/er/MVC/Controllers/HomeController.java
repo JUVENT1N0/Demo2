@@ -15,6 +15,5 @@ public class HomeController {
 	@GetMapping("/Ejemplo1")
 	public String Ejemplo1(){
 		return "ejemplo1";
-		
 	}
 }
