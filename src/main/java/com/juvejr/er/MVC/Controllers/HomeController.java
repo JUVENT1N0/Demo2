@@ -11,6 +11,7 @@ public class HomeController {
 	public String Saludo(){
 		return "ejemplo";
 		
+		
 	}
 	@GetMapping("/Ejemplo1")
 	public String Ejemplo1(){
