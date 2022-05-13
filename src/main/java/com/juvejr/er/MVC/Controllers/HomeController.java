@@ -10,7 +10,6 @@ public class HomeController {
 	@GetMapping("/")
 	public String Saludo(){
 		return "ejemplo";
-		
 	}
 	@GetMapping("/Ejemplo1")
 	public String Ejemplo1(){
